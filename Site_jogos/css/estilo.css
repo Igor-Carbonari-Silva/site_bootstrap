@@ -1,0 +1,93 @@
+.logo{
+    width: 150px;
+}
+.img-banner{
+    width: 600px;
+}
+p{
+    text-align: justify;
+}
+.img-destaque{
+    width: 230px;
+}
+.galeria{
+    margin: 5px;
+    border: 1px solid black;
+    float: left;
+    width: 230px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.galeria p{
+    margin-left: 5px;
+}
+.img-novidades{
+    width: 600px;
+    margin-left: 30px;
+}
+.logo_rodape img{
+    position: absolute;
+    width: 350px;
+    height: auto;
+    margin-left: 85px;
+    margin-top: 100px;
+}
+.info_contato{
+    position: absolute;
+    width: 200px;
+    height: 225px;
+    margin-left: 825px;
+    margin-top: 300px;
+    font-size: large;
+}
+.topico_email{
+    font-size: 15px;
+    font-family: 'Roboto', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: bold;
+    margin-top: -225px;
+}
+.topico_endereco{
+    font-size: 15px;
+    font-family: 'Roboto', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: bold;
+    margin-top: 15px;
+}
+.topico_telefone{
+    font-size: 15px;
+    font-family: 'Roboto', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: bold;
+    margin-top: 15px;
+}
+.col-4{
+    position: absolute;
+    width: 750px;
+    height: 100px;
+    margin-left: 1450px;
+    margin-top: 125px;
+}
+.img1{
+    padding-left: 5px;
+    margin-top: -50px;
+}
+
+.img2{
+    padding-left: 5px;
+    margin-top: -50px;
+}
+
+.img3{
+    padding-left: 5px;
+    margin-top: -50px;
+}
+
+.img4{
+    padding-left: 5px;
+    margin-top: -50px;
+}
+li{
+    list-style-type: none;
+    line-height: 1.5;
+}
+.fundo{
+    background-color: #ccc;
+}
